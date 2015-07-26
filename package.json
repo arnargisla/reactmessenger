@@ -1,0 +1,25 @@
+{
+  "name": "reactmessenger",
+  "version": "1.0.0",
+  "description": "testing react project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnargisla/reactmessenger.git"
+  },
+  "author": "Arnar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnargisla/reactmessenger/issues"
+  },
+  "homepage": "https://github.com/arnargisla/reactmessenger#readme",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1"
+  }
+}
